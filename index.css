@@ -8,7 +8,7 @@ body {
     background-color: #2d8f93;
 }
 
-.container {
+.container { 
     margin: auto;
     width: 80%;
     overflow: hidden;
@@ -64,7 +64,6 @@ header {
     padding: 50px;
     font-family: 'tangerine';
     background-color: #c4b6b6;
-    border-radius: 5px;
 }
 
 header nav {
@@ -110,7 +109,6 @@ header nav ul li a:hover:before {
 header nav ul li a:hover {
     color: #00737c;
     font-weight: bold;
-    font-size: 18px;
 }
 
 
@@ -135,7 +133,7 @@ header nav ul li:nth-child(1) {
 
 .left-portion {
     width: 22%;
-    border: 1px solid black;
+    
     border-bottom: none;
     height: 1200px;
     float: left;
@@ -148,7 +146,7 @@ header nav ul li:nth-child(1) {
     width: 80%;
     height: 300px;
     background-color: #cdfffd;
-    border: 1px solid black;
+    
     margin: 0 auto;
     position: relative;
 }
@@ -255,11 +253,7 @@ header nav ul li:nth-child(1) {
     margin: 0px 0 0 0;
     padding: 10px;
     background-color: #98d4d4;
-    border-right: 10px solid #4a4a4a;
-    border-left: 10px solid #4a4a4a;
-    border-bottom: 2px solid #000000;
-    border-top: 2px solid #000000;
-
+    
 }
 
 
@@ -514,7 +508,7 @@ header nav ul li:nth-child(1) {
 
 .right-portion {
     width: 22%;
-    border: 1px solid black;
+    
     border-bottom: none;
     height: 1200px;
     float: left;
@@ -563,7 +557,7 @@ header nav ul li:nth-child(1) {
     text-align: center;
     padding: 50px;
     font-family: "old standard tt";
-    border-top: 1px solid black;
+    
 }
 
 .footer h4 {
@@ -624,7 +618,7 @@ header nav ul li:nth-child(1) {
         height: 100%;
         position: relative;
        border:none;
-        border-left:1px solid gray;
+        
     }
 
     .middle-portion {
